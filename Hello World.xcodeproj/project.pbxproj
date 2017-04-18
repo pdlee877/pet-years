@@ -12,6 +12,8 @@
 		524EBEC41EA5FACF00232849 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 524EBEC21EA5FACF00232849 /* Main.storyboard */; };
 		524EBEC61EA5FACF00232849 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 524EBEC51EA5FACF00232849 /* Assets.xcassets */; };
 		524EBEC91EA5FACF00232849 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 524EBEC71EA5FACF00232849 /* LaunchScreen.storyboard */; };
+		524EBED11EA691E300232849 /* corgi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 524EBED01EA691E300232849 /* corgi.jpg */; };
+		524EBED31EA696EF00232849 /* kitten.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 524EBED21EA696EF00232849 /* kitten.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		524EBEC51EA5FACF00232849 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		524EBEC81EA5FACF00232849 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		524EBECA1EA5FACF00232849 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		524EBED01EA691E300232849 /* corgi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = corgi.jpg; sourceTree = "<group>"; };
+		524EBED21EA696EF00232849 /* kitten.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kitten.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				524EBEBE1EA5FACF00232849 /* AppDelegate.swift */,
 				524EBEC01EA5FACF00232849 /* ViewController.swift */,
 				524EBEC21EA5FACF00232849 /* Main.storyboard */,
+				524EBED01EA691E300232849 /* corgi.jpg */,
+				524EBED21EA696EF00232849 /* kitten.jpg */,
 				524EBEC51EA5FACF00232849 /* Assets.xcassets */,
 				524EBEC71EA5FACF00232849 /* LaunchScreen.storyboard */,
 				524EBECA1EA5FACF00232849 /* Info.plist */,
@@ -123,6 +129,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				524EBED31EA696EF00232849 /* kitten.jpg in Resources */,
+				524EBED11EA691E300232849 /* corgi.jpg in Resources */,
 				524EBEC91EA5FACF00232849 /* LaunchScreen.storyboard in Resources */,
 				524EBEC61EA5FACF00232849 /* Assets.xcassets in Resources */,
 				524EBEC41EA5FACF00232849 /* Main.storyboard in Resources */,
